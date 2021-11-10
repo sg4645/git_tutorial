@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/board/bean/BoardPaging.java=UTF-8
+encoding//src/main/java/board/service/BoardWriteService.java=UTF-8
+encoding//src/main/java/board/service/GetBoardListService.java=UTF-8
+encoding//src/main/java/imageboard/bean/ImageboardPaging.java=UTF-8
+encoding//src/main/java/member/dao/MemberDAO.java=UTF-8
+encoding//src/main/java/member/service/LogoutService.java=UTF-8
+encoding//src/main/java/member/service/WriteService.java=UTF-8
+encoding//src/main/webapp/WEB-INF/command.properties=UTF-8
